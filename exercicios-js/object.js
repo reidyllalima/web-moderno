@@ -16,4 +16,5 @@ const prod2 = {
     }
 }
 
+console.log(prod1)
 console.log(prod2)
